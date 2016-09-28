@@ -34,7 +34,7 @@ The **output** are two figures (**PNG** and **PDF**), and one file with average 
 
 ### Dependency
 
-+ Basic R environment
++ Basic **R** environment
 
 ### Figure Show
 
